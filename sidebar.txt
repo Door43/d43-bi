@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bi:home|Door43 (bi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bi|d43-bi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bi/archive/master.zip|d43-bi.zip]]
+
+**Recent Changes**
+{{changes>ns = bi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bi|Ethnologue data]]
+
